@@ -15,7 +15,7 @@ Die folgenden Codebeispiele sind im Repository enthalten. Die gleichnamigen Graf
 2. mini-01_Ambulance-2.hex - Blinkende RGB-LED (Rot/Grün)
 3. mini-01_Ambulance-3.hex - Blinkfrequenz steuern duch pausieren
 4. mini-01_Ambulance-4.hex - Sound hinzufügen zum Blinkrhythmus
-5. mini-01_Ambulance-5.hex - Farben und Sound anpassen für Ambulance Simulation
-6. mini-01_Ambulance-6.hex - Einschaltbedungung hinzufügen (wenn Button gedrückt)
-7. mini-01_Ambulance-7.hex - Ausschaltbedungung hinzufügen (wenn Button NICHT gedrückt)
-8. mini-01_Ambulance-8.hex - 2-Button-Lösung zum Ein-/Ausschalten realisieren
+5. mini-01_Ambulance-5.hex - Farben (Rot/Blau) und Sound (Tonhöhe) anpassen für Ambulance Simulation
+6. mini-01_Ambulance-6.hex - Einschaltbedingung hinzufügen (wenn Button gedrückt)
+7. mini-01_Ambulance-7.hex - Ausschaltbedingung hinzufügen (wenn Button NICHT gedrückt)
+8. mini-01_Ambulance-8.hex - 2-Button-Lösung zum dauerhaften Ein-/Ausschalten realisieren
