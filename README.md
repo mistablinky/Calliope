@@ -1,5 +1,5 @@
 # Calliope
-### Erste Schritte mit Calliope mini
+### Einstieg in die Programmierung mit Calliope mini
 
 Der Calliope mini ist ein Entwicklungsboard für den einfachen Einstieg in die digitale Welt und in die Programmierung. Der Einstieg ist möglich ohne weitere Vorkenntnisse. Weitere Informationen unter https://calliope.cc/.
 
